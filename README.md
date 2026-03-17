@@ -19,10 +19,10 @@ ws_13324106_NobuDowntown/
 ```
 
 ### Screenshot Struktur Folder
-Struktur Folder - README.png
+<img src="Struktur Folder - README.png" alt="Struktur Folder" width="600">
 
 ### Screenshot Output Terminal
-![Output Terminal](Screenshot%202026-03-17%20155925.png)
+<img src="Screenshot%202026-03-17%20155925.png" alt="Struktur Folder" width="600">
 
 ## Penjelasan
 - **Workspace**: ws_13324106_NobuDowntown
