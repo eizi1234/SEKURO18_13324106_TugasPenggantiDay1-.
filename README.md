@@ -19,10 +19,10 @@ ws_13324106_NobuDowntown/
 ```
 
 ### Screenshot Struktur Folder
-[tambahkan screenshot di sini]
+Struktur Folder - README.png
 
 ### Screenshot Output Terminal
-[tambahkan screenshot di sini]
+Screenshot 2026-03-17 155925.png
 
 ## Penjelasan
 - **Workspace**: ws_13324106_NobuDowntown
